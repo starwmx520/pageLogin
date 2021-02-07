@@ -1,0 +1,17 @@
+node_modules/
+.idea/
+.nyc_output/
+coverage/
+
+.DS_Store
+
+.vscode/
+busanalyzer/data.json
+*.css
+
+/report.*.json
+/webpack.config.local.js
+
+.dist/
+./src/hosting/billentry/_plugins.ts
+
